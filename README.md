@@ -17,7 +17,6 @@ This project is created purely for educational and learning purposes.
 - Improve CSS positioning and responsiveness
 - Understand real-world UI structure
 ## Live Demo
-https://waheed-codes.github.io/Portfolio-Website/
 
 ## Author
 Mohammed Waheeduddin

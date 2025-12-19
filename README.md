@@ -1,7 +1,4 @@
 # Hero Section UI Clone
-
-**Live Demo**
- https://waheed-codes.github.io/Portfolio-Website/
  
 ## Description
 This is a frontend practice project where I recreated a modern hero section to improve my HTML and CSS skills.
@@ -19,6 +16,8 @@ This project is created purely for educational and learning purposes.
 - Practice frontend layout design
 - Improve CSS positioning and responsiveness
 - Understand real-world UI structure
+## Live Demo
+https://waheed-codes.github.io/Portfolio-Website/
 
 ## Author
 Mohammed Waheeduddin
